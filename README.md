@@ -251,7 +251,37 @@ npm run format
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+**Enterprise Commercial License**
+
+This software is proprietary and confidential. All rights reserved.
+
+### Usage Rights:
+- **Licensed Use Only**: This software may only be used under a valid commercial license agreement
+- **Commercial Deployment**: Organizations must obtain an enterprise license for production use
+- **Payment Required**: Usage is subject to payment terms as defined in the commercial license agreement
+- **Restricted Distribution**: Redistribution, modification, or derivative works are prohibited without explicit written consent
+- **API Access**: Commercial API access and premium features require an active subscription
+
+### License Tiers:
+- **Starter Plan**: Small teams and development environments
+- **Professional Plan**: Mid-size companies and moderate usage
+- **Enterprise Plan**: Large organizations and high-volume deployments
+
+### Restrictions:
+- ❌ No open-source redistribution
+- ❌ No free commercial use without license
+- ❌ No modification or derivative works without permission
+- ❌ No reverse engineering or decompilation
+- ❌ No concurrent usage beyond licensed limits
+
+### Contact for Licensing:
+For licensing inquiries, enterprise plans, or commercial deployment options, please contact:
+- 📧 Email: tyronleev526@gmail.com
+- 💼 GitHub: [@tyronleev526-gif](https://github.com/tyronleev526-gif)
+
+**Licensing agreement available upon request.**
+
+---
 
 ## Support
 
